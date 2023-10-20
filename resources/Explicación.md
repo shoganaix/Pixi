@@ -1,0 +1,1 @@
+Aquí diria de adjuntar la informacion relacionada a lo utilizado para el desarrollo del aprendizaje que se ha tenido, ya sea libros, blogs, etc

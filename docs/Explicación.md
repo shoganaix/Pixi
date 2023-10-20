@@ -1,0 +1,1 @@
+Aqui habrá un fichero que se actualizará para mostrar proyectos que se han/estan/seran realizados tipo resumen con un link a cada uno de ellos. Lo ideal creo que sería que hubiera una carpeta con proyectos donde se tenga información en formato pdf en el que se explique el proyecto y con links de acceso a cada uno de ellos.
