@@ -2,10 +2,12 @@
 
 
 ## Table of Contents
-- [General Info]
-2. Documentation.
-3. [Installation]
-4. [Collaboration]
+1. General Info
+   -
+3. Documentation.
+   -
+5. Installation
+7. Collaboration
 
 ### General Info
 
@@ -14,6 +16,5 @@
 ### Installation
 $ git clone https://example.com
 $ cd ../path/to/the/file
-
 
 ### Collaboration
