@@ -2,7 +2,7 @@
 **_Welcome to my unique online portfolio, where your journey through my career is transformed into a top-down, retro-style pixel art adventure._** 
 This website stands as a tribute to my enduring passion for videogames. The project has been coded using HTML, CSS, JavaScript, and Pixi. It has also been thoughtfully crafted using Aseprite and Photoshop for the pixel art visuals, along with ProTools for the creation of an original soundtrack
 
-Embark on this journey and take your time to explore and enjoy my work.
+_Embark on this journey and take your time to explore and enjoy my work._
 
 ## Key Features:
 
