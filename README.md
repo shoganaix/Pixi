@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-1. [General Info]
+- [General Info]
 2. Documentation.
 3. [Installation]
 4. [Collaboration]
