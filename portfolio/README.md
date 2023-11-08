@@ -18,7 +18,7 @@ _Embark on this journey and take your time to explore and enjoy my work._
 
 🤝 Interactivity: Engage with elements on the screen, interact with my work, and unlock hidden surprises as you navigate through my portfolio.
 
-### Updates
+### Updates:
 
 - [x] 4 Directional Movement
 - [x] Animations
