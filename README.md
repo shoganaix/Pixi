@@ -12,8 +12,8 @@
 ### Documentation
 
 ### Installation
-$ git clone [https://example.com
-](https://github.com/shoganaix/Pixi.git)
+$ git clone https://github.com/shoganaix/Pixi.git
+
 $ cd ../path/to/the/file
 
 ### Collaboration
