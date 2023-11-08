@@ -1,9 +1,10 @@
 # Explore My Career Portfolio: A Pixel Adventure
-**_Welcome to my unique online portfolio, where your journey through my career is transformed into a top-down, retro-style pixel art adventure._** 
+**_Welcome to my portfolio! A top-down, retro-style pixel art adventure._** 
 
+This website stands as a tribute to my enduring passion for videogames. 
+The project has been coded using HTML, CSS, JavaScript, and Pixi. It has also been thoughtfully crafted using Aseprite and Photoshop for the pixel art visuals, along with ProTools for the creation of an original soundtrack
 
-This website stands as a tribute to my enduring passion for videogames. The project has been coded using HTML, CSS, JavaScript, and Pixi. It has also been thoughtfully crafted using Aseprite and Photoshop for the pixel art visuals, along with ProTools for the creation of an original soundtrack
-
+_Embark on this journey and take your time to explore and enjoy my work._
 
 ## Key Features:
 
@@ -16,7 +17,3 @@ This website stands as a tribute to my enduring passion for videogames. The proj
 🌟 Engaging Details: Discover the myriad of intricate details, animations, and sounds that are seamlessly integrated into every aspect of the website, ensuring a captivating and immersive experience.
 
 🤝 Interactivity: Engage with elements on the screen, interact with my work, and unlock hidden surprises as you navigate through my portfolio.
-
-
-
-_Embark on this journey and take your time to explore and enjoy my work._
