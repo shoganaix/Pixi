@@ -6,7 +6,7 @@ The project has been coded using HTML, CSS, JavaScript, and Pixi. It has also be
 
 _Embark on this journey and take your time to explore and enjoy my work._
 
-## Key Features:
+## Key Features
 
 🎮 4-Directional Movement Character: Navigate your way through my career with a charming character that can move in all four directions, adding a sense of exploration to your experience.
 
@@ -18,7 +18,7 @@ _Embark on this journey and take your time to explore and enjoy my work._
 
 🤝 Interactivity: Engage with elements on the screen, interact with my work, and unlock hidden surprises as you navigate through my portfolio.
 
-### Updates:
+## Updates
 
 - [x] 4 Directional Movement
 - [x] Animations
