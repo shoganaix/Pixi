@@ -3,9 +3,9 @@
 
 ## Table of Contents
 - General Info
-3. Documentation.
-5. Installation
-7. Collaboration
+- Documentation.
+- Installation
+- Collaboration
 
 ### General Info
 
