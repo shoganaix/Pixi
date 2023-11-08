@@ -4,7 +4,6 @@
 
 This website stands as a tribute to my enduring passion for videogames. The project has been coded using HTML, CSS, JavaScript, and Pixi. It has also been thoughtfully crafted using Aseprite and Photoshop for the pixel art visuals, along with ProTools for the creation of an original soundtrack
 
-_Embark on this journey and take your time to explore and enjoy my work._
 
 ## Key Features:
 
@@ -18,3 +17,5 @@ _Embark on this journey and take your time to explore and enjoy my work._
 
 🤝 Interactivity: Engage with elements on the screen, interact with my work, and unlock hidden surprises as you navigate through my portfolio.
 
+
+_Embark on this journey and take your time to explore and enjoy my work._
